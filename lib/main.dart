@@ -65,9 +65,9 @@ class MyApp extends StatelessWidget {
                       Icons.phone,
                       color: Colors.teal,
                     ),
-                    title: Text("+9712345678899",
+                    title: Text("+91-8458948688",
                         style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 18,
                           color: Color.fromARGB(255, 52, 133, 125),
                           letterSpacing: 1,
                           fontFamily: "Source Sans Pro",
@@ -86,11 +86,11 @@ class MyApp extends StatelessWidget {
                   ),
                   // ignore: prefer_const_constructors
                   title: Text(
-                    "Test@gmail.com",
+                    "mshayatdevop@gmail.com",
                     // ignore: prefer_const_constructors
                     style: TextStyle(
                       color: Color.fromARGB(255, 52, 133, 125),
-                      fontSize: 20,
+                      fontSize: 18,
                     ),
                   ),
                 ),
